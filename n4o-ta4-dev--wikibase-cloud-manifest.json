@@ -18,6 +18,6 @@
     "registration_page": "https://n4o-ta4-dev.wikibase.cloud/wiki/Special:OAuthConsumerRegistration/propose"
   },
   "reconciliation": {
-    "endpoint": "https://n4o-ta4-dev.wikibase.cloud/reconcile/${lang}/api"
+    "endpoint": "https://wikidata.reconci.link/${lang}/api"
   }
 }
