@@ -18,6 +18,6 @@
         "registration_page": "https://or-wikibase-test.wiki.opencura.com/wiki/Special:OAuthConsumerRegistration/propose"
     },
     "reconciliation": {
-        "endpoint": "https://or-wikibase-test.reconci.link/${lang}/api"
+        "endpoint": "https://wikidata.reconci.link/${lang}/api"
     }
 }
