@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "mediawiki": {
+    "name": "n4o-ta4-dev",
+    "root": "https://n4o-ta4-dev.wikibase.cloud/wiki/",
+    "main_page": "https://n4o-ta4-dev.wikibase.cloud/wiki/Main_Page",
+    "api": "https://n4o-ta4-dev.wikibase.cloud/w/api.php"
+  },
+  "wikibase": {
+    "site_iri": "n4o-ta4-dev.wikibase.cloud/entity/",
+    "maxlag": 5,
+    "properties": {
+      "instance_of": "P1",
+      "subclass_of": "P2"
+    }
+  },
+  "oauth": {
+    "registration_page": "https://n4o-ta4-dev.wikibase.cloud/wiki/Special:OAuthConsumerRegistration/propose"
+  },
+  "reconciliation": {
+    "endpoint": "https://n4o-ta4-dev.wikibase.cloud/reconcile/${lang}/api"
+  }
+}
